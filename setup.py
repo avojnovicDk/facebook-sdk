@@ -4,7 +4,7 @@ from setuptools import setup
 exec(open("facebook/version.py").read())
 
 setup(
-    name='facebook-sdk',
+    name='facebook-sdka',
     version=__version__,
     description='This client library is designed to support the Facebook '
                 'Graph API and the official Facebook JavaScript SDK, which '
